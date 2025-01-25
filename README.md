@@ -1,3 +1,3 @@
 # OrderService
 
-Mange orders
+Mange orders, integrations with delivery providers
